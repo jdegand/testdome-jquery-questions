@@ -1,4 +1,3 @@
-# testdome-jquery-questions
-Test Dome  jQuery Interview Questions
+# Test Dome jQuery Interview Questions
 
-[Test Dome](https://www.testdome.com/d/jquery-interview-questions/121)
+[Test Dome](https://www.testdome.com/tests/jquery-online-test/78)
